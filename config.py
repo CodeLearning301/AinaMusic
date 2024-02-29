@@ -25,10 +25,10 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 900))
 
 # Chat id of a group for logging bot's activities
-LOGGER_ID = int(getenv("LOGGER_ID", None))
+LOGGER_ID = int(getenv("LOGGER_ID", "-1002019409884"))
 
 # Get this value from @BRANDRD_ROBOT on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", ""))
+OWNER_ID = int(getenv("OWNER_ID", "1892884368"))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -84,18 +84,18 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/3510b4410eb1b5433d892.jpg"
+    "START_IMG_URL", "https://telegra.ph/file/5e9b95fae5fe1d11287c4.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/3510b4410eb1b5433d892.jpg"
+    "PING_IMG_URL", "https://telegra.ph/file/ed8a2a0dfa2d0c11bd92a.jpg"
 )
-PLAYLIST_IMG_URL = "https://te.legra.ph/file/2e2f78610814092d61103.jpg"
-STATS_IMG_URL = "https://te.legra.ph/file/e906c2def5afe8a9b9120.jpg"
-TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
-TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
-STREAM_IMG_URL = "https://te.legra.ph/file/bd995b032b6bd263e2cc9.jpg"
+PLAYLIST_IMG_URL = "https://telegra.ph/file/7dea43c570fee0d868ad7.jpg"
+STATS_IMG_URL = "https://graph.org/file/f618067efb672077680ad.jpg"
+TELEGRAM_AUDIO_URL = "https://graph.org/file/63d4de92c52cde4a34482.jpg"
+TELEGRAM_VIDEO_URL = "https://telegra.ph/file/4bc2125b409c550e0808f.jpg"
+STREAM_IMG_URL = "https://graph.org/file/63d4de92c52cde4a34482.jpg"
 SOUNCLOUD_IMG_URL = "https://te.legra.ph/file/bb0ff85f2dd44070ea519.jpg"
-YOUTUBE_IMG_URL = "https://te.legra.ph/file/ce5ffb3d5f383c781f234.jpg"
+YOUTUBE_IMG_URL = "https://telegra.ph/file/43dc5aa4546827b5f5c12.jpg"
 SPOTIFY_ARTIST_IMG_URL = "https://te.legra.ph/file/37d163a2f75e0d3b403d6.jpg"
 SPOTIFY_ALBUM_IMG_URL = "https://te.legra.ph/file/b35fd1dfca73b950b1b05.jpg"
 SPOTIFY_PLAYLIST_IMG_URL = "https://te.legra.ph/file/95b3ca7993bbfaf993dcb.jpg"
