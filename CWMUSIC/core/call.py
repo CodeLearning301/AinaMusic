@@ -35,7 +35,7 @@ from CWMUSIC.utils.exceptions import AssistantErr
 from CWMUSIC.utils.formatters import check_duration, seconds_to_min, speed_converter
 from CWMUSIC.utils.inline.play import stream_markup
 from CWMUSIC.utils.stream.autoclear import auto_clean
-from CWMUSIC.utils.thumbnails import get_thumb
+from CWMUSIC.utils.thumbnails import gen_thumb
 from strings import get_string
 
 autoend = {}
