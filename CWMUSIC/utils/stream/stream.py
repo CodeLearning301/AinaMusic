@@ -13,7 +13,7 @@ from CWMUSIC.utils.exceptions import AssistantErr
 from CWMUSIC.utils.inline import aq_markup, close_markup, stream_markup
 from CWMUSIC.utils.pastebin import AnonyBin
 from CWMUSIC.utils.stream.queue import put_queue, put_queue_index
-from CWMUSIC.utils.thumbnails import get_thumb
+from CWMUSIC.utils.thumbnails import gen_thumb
 
 
 async def stream(
