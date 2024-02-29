@@ -9,7 +9,7 @@ from CWMUSIC.utils.database import get_loop
 from CWMUSIC.utils.decorators import AdminRightsCheck
 from CWMUSIC.utils.inline import close_markup, stream_markup
 from CWMUSIC.utils.stream.autoclear import auto_clean
-from CWMUSIC.utils.thumbnails import get_thumb
+from CWMUSIC.utils.thumbnails import gen_thumb
 from config import BANNED_USERS
 
 
