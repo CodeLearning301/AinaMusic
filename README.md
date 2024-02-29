@@ -18,12 +18,9 @@
 </h3>
 
 <p align="center">
-<a href="https://t.me/ll_CRUSH_WORLD_ll"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Aina_Official"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="(https://t.me/ll_ABOUT_CHOCOLATY_ll"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="(https://t.me/mehfil_ye_khayalat"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
-
-
-- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [🦅𝐒˚𝐇˚𝐈˚𝐕˚𝐀˚𝐍˚𝐆™](https://github.com/cwteam169) ғᴏʀ [🦅𝐒˚𝐇˚𝐈˚𝐕˚𝐀˚𝐍˚𝐆™](https://github.com/cwteam169/CW-MUSIC) </b>
